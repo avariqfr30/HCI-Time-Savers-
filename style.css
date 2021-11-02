@@ -1,0 +1,138 @@
+body {
+  font-family: "Avenir Next";
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPdszXG7-bp_hT79Ql1xzyTaq3P9vRFd8mQ&usqp=CAU");
+}
+
+li {
+  list-style: none;
+}
+
+.header {
+  background-color: #068f23;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
+.main {
+  padding: 100px 80px;
+}
+
+.cool-interior {
+  width: 1100px;
+}
+
+.big-words h1 {
+  font-size: 140px;
+  color: white;
+  margin-top: -640px;
+  font-family: "Segoe Script";
+}
+
+.big-words h2 {
+  font-size: 70px;
+  margin-top: 350px;
+  margin-bottom: 50px;
+  color: white;
+  font-family: "Gabriola";
+}
+
+.contents {
+  height: 500px;
+  margin-top: 100px;
+  background: rgba(60, 50, 1, 0.6);
+}
+
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 51px;
+  font-family: "Gabriola";
+  margin-bottom: 60px;
+  color: white;
+}
+
+.contents-item {
+  float: left;
+  align-content: right;
+  margin-right: 43px;
+}
+
+.contents-item p {
+  font-size: 33px;
+  font-family: "Gabriola";
+  font-weight: bold;
+  margin-top: 30px;
+  color: white;
+}
+
+.contact-form {
+  padding-top: 10px;
+  background: rgba(1, 1, 1, 0.5);
+}
+
+.contact-form p {
+  color: white;
+  font-size: 24px;
+  font-family: "Gabriola";
+}
+
+input,
+textarea {
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+  border: 1px solid #dee7ec;
+}
+
+.image-1 {
+  width: 250px;
+}
+
+.image-2 {
+  width: 250px;
+}
+
+.image-3 {
+  width: 250px;
+}
+
+.image-4 {
+  width: 250px;
+}
+
+.contact-submit {
+  background-color: #dee7ec;
+  color: #889eab;
+}
+
+.footer {
+  background-color: #036811;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
